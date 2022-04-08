@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Fri Apr 08 2022 13:44:37 GMT-0300 (Horário Padrão de Brasília)
+------------------------------------------------------
+
+Modified files:
+* lib/main.dart
+* pubspec.lock
+* pubspec.yaml
+* test/widget_test.dart
+
+
+Created files:
+* .autogit/autogit.json
+* lib/core/app_widget.dart
+* lib/core/theme.dart
+* lib/pages/Home/home_page.dart
+
+
+Deleted files:
+
+
+Renamed files:
